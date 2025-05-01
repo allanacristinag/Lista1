@@ -1,0 +1,2 @@
+C:\Users\allan\source\repos\ListaDeAtividades1Ex1\ListaDeAtividades1\obj\Release\ListaDeAtividades1.csproj.AssemblyReference.cache
+C:\Users\allan\source\repos\ListaDeAtividades1Ex1\ListaDeAtividades1\obj\Release\ListaDeAtividades1.csproj.CoreCompileInputs.cache
